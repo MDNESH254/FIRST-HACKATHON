@@ -18,9 +18,9 @@ Welcome to my personal portfolio — a clean, responsive website showcasing my u
 - 📱 **Responsive Design** — Optimized for both desktop and mobile
 - 🎨 **Modern UI** — Elegant color palette (Indigo + Grey), Google Fonts (Lobster & Raleway)
 
-## 🧰 Tech Stack
-| HTML5    
-| CSS3     
+## 🧰 Tech
+| HTML
+| CSS
 
 ## 📦 Getting Started?
 
@@ -35,18 +35,18 @@ To run this project locally:
 3.Open the file index.html with your browser
 Or use Live Server in VS Code for real-time editing
 
-##📄 CV Download Feature
+## 📄 CV Download Feature
 
 The website includes a downloadable PDF CV for easy access to my credentials:
 Just click on the "📄 Download My CV" button in the Education section.
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Add smooth scroll and animation effects
 Showcase dynamic GitHub projects using GitHub API
 
 
-👤 Author
+## 👤 Author
 Cyprian Munene
 
 🧑‍⚕️ Medical Student | 💻 Software Developer | 🎶 DJ
