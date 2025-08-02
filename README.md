@@ -33,26 +33,32 @@ To run this project locally:
 2.Open in browser:
 
 3.Open the file index.html with your browser
-
 Or use Live Server in VS Code for real-time editing
 
-📄 CV Download Feature
+##📄 CV Download Feature
+
 The website includes a downloadable PDF CV for easy access to my credentials:
 Just click on the "📄 Download My CV" button in the Education section.
 
-📌 Future Improvements
+##📌 Future Improvements
+
 Add smooth scroll and animation effects
 Showcase dynamic GitHub projects using GitHub API
 
 
 👤 Author
 Cyprian Munene
+
 🧑‍⚕️ Medical Student | 💻 Software Developer | 🎶 DJ
+
 📧 Email: munenecyprian921@gmail.com
+
 🔗 GitHub: MDNESH254
+
 🔊 Mixcloud: Md_Nesh254
 
 💬 Feedback
+
 If you find this project helpful or inspiring, feel free to star ⭐ the repo or reach out with suggestions!
 
 
